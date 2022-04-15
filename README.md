@@ -1,5 +1,3 @@
 # Code
 
-this is new 
-clean
-njnhjbhjbhgbgh
+this is new to circel ci
