@@ -2,7 +2,7 @@
 //  NetworkManager.swift
 //
 //  Created by M A Hossan on 01/03/2022.
-//
+//The network Manager was added 
 
 import UIKit
 
